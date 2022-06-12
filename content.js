@@ -9,6 +9,8 @@ const CONTENT = {
     <br>
     <p>Made by James Pilcher, Matthew Mitchell and William Bigley</p>
     <br>
+    <p>Link to GitHub repository: <a href="https://github.com/jamesp6784/dataprivacy/" target="_blank">https://github.com/jamesp6784/dataprivacy/</a></p>
+    <br>
     <img src="./img/home_image.png" width="400">
     `,
     "topic": `
