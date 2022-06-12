@@ -48,10 +48,9 @@ body {
 #content {
     position: absolute;
     top: 0;
-    left: 240px;
-    width: calc(100vw - 240px - 600px);
+    left: calc(240px + ((100vw - 240px - 800px) / 2));
+    width: 800px;
     height: 100vh;
-    margin: 0 300px;
     padding: 24px;
     background-color: #fff;
 }
@@ -77,4 +76,11 @@ body {
     border: 1px solid #aaa;
     border-left: none;
     padding: 16px;
+}
+
+@media only screen and (max-width: 1040px) {
+    #content {
+        left: 240px;
+    }
+
 }

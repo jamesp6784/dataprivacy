@@ -58,7 +58,7 @@ const CONTENT = {
         <div>
             <p>James Pilcher</p>
             <p>(21154854)</p>
-            <p><a href="./reflections/personal-evaluation-21154854.docx" target="_blank">Link</a></p>
+            <p><a href="./reflections/personal-evaluation-21154854.pdf" target="_blank">Link</a></p>
         </div>
         <div>
             <p>Matthew Mitchell</p>
@@ -68,7 +68,7 @@ const CONTENT = {
         <div>
             <p>William Bigley</p>
             <p>(21152433)</p>
-            <p><a href="./reflections/personal-evaluation-21152433.docx" target="_blank">Link</a></p>
+            <p><a href="./reflections/personal-evaluation-21152433.pdf" target="_blank">Link</a></p>
         </div>
     </div>
     `,
